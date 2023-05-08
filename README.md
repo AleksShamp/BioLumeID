@@ -16,7 +16,7 @@ Si la recherche ne donne aucun résultat, cela signifie que l'information n'est 
 Dans ce tableau de données, certaines informations ont été écrites en japonais et aucune traduction ne sera effectuée afin d'éviter toute erreur de traduction. Si vous souhaitez consulter ces informations supplémentaires, nous vous invitons à vous référer au fichier source.
 
 
-Dans la deuxième section de l'application, vous pourrez observer les graphiques effectués dans l'article de Martini S. and Haddock 2017 et modifier les paramètres sélectionnés. "
+--Dans la deuxième section de l'application, vous pourrez observer les graphiques effectués dans l'article de Martini S. and Haddock 2017 et modifier les paramètres sélectionnés. "
 Toutefois, il est conseillé de ne jamais désélectionner tous les taxons, car cela entraînerait une erreur.
 
 
