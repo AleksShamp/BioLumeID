@@ -1,0 +1,13 @@
+name: BioLumeID
+title: BioLumeID
+username:
+account: lc3nit-aleksandr-champ
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 9039087
+bundleId: 7179420
+url: https://lc3nit-aleksandr-champ.shinyapps.io/BioLumeID/
+when: 1683305121.3235
+lastSyncTime: 1683305121.32352
+asMultiple: FALSE
+asStatic: FALSE
